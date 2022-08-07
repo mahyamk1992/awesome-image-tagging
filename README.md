@@ -83,7 +83,7 @@ I am so excited to read awesome CVPR 2019 aceepted papers about Image Tagging. A
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
 
 * Metatdata Neighbourhood Graph Co-Attention Networks
-  - **Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks**<br>
+  - **Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks** [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Mind_Your_Neighbours_Image_Annotation_With_Metadata_Neighbourhood_Graph_Co-Attention_CVPR_2019_paper.pdf)<br>
   Junjie Zhang, Qi Wu, Jian Zhang, Chunhua Shen, Jianfeng Lu<br>
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
   - Looks like follow-up paper ['Love Thy Neighbors: Image Annotation by Exploiting Image Metatda' by Justin Johson, Lamberto Ballan, Li Fei-Fei](https://cs.stanford.edu/people/jcjohns/papers/iccv15/JohnsonICCV2015.pdf)
@@ -99,7 +99,7 @@ I am so excited to read awesome CVPR 2019 aceepted papers about Image Tagging. A
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
   
 * Visual Attention Consistency under Image Transforms
-  - **Visual Attention Consistency under Image Transforms for Multi-label Image Classification**<br>
+  - **Visual Attention Consistency under Image Transforms for Multi-label Image Classification** [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_Visual_Attention_Consistency_Under_Image_Transforms_for_Multi-Label_Image_Classification_CVPR_2019_paper.pdf)<br>
   Hao Guo, Kang Zheng, Xiaochuan Fan, Hongkai Yu, Song Wang<br>
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
   
@@ -108,13 +108,20 @@ I am so excited to read awesome CVPR 2019 aceepted papers about Image Tagging. A
   Amit Alfassy, Leonid Karlinsky, Ami Aides, Joseph Shtok, Sivan Harary, Rogerio Feris, Raja Giryes, Alex M. Bronstein<br>
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
 
+## ICCV 2019 Accepted Paper List
+[[accepted paper list]](http://iccv2019.thecvf.com/program/main_conference)
 
+* Learning Semantic-Specific Graph Representation
+  - **Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition** [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Learning_Semantic-Specific_Graph_Representation_for_Multi-Label_Image_Recognition_ICCV_2019_paper.pdf)<br>
+  Tianshui Chen, Muxin Xu, Xiaolu Hui, Hefeng Wu, Liang Lin<br>
+  In Proceedings of IEEE International Conference on Computer Vision (ICCV), 2019
 
 ## Notice
 This repository is just made for my own studying, so there may be incorrect information.<br>
 Also, I regard 'image tagging', 'image annotation', 'multi-label image classification' as same task (actually may be little bit different) in this repository.<br>
 
 *I'd appreciate it if everybody could reccommend me image tagging paper that I can read.<br>*
+현재는 이 쪽 분야의 paper를 read up 하고 있지는 않지만, ICCV 2019 paper까지는 올려보고자 합니다.<br>
 Thank you!<br><br>
 
 Email: kabbi159@gmail.com
